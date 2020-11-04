@@ -1,0 +1,13 @@
+﻿  AStar.cpp
+C:\Users\mark\source\repos\AISixPuzzle\AISixPuzzle\AStar.cpp(62): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mark\source\repos\AISixPuzzle\AISixPuzzle\AStar.cpp(67): warning C4018: '<': signed/unsigned mismatch
+  Board.cpp
+C:\Users\mark\source\repos\AISixPuzzle\AISixPuzzle\Board.cpp(22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mark\source\repos\AISixPuzzle\AISixPuzzle\Board.cpp(27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mark\source\repos\AISixPuzzle\AISixPuzzle\Board.cpp(32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mark\source\repos\AISixPuzzle\AISixPuzzle\Board.cpp(37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mark\source\repos\AISixPuzzle\AISixPuzzle\Board.cpp(46): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\mark\source\repos\AISixPuzzle\AISixPuzzle\Board.cpp(49): warning C4715: 'Board::GetEmpty': not all control paths return a value
+C:\Users\mark\source\repos\AISixPuzzle\AISixPuzzle\AStar.cpp(128): warning C4715: 'AStar::AStarCalc': not all control paths return a value
+  AISixPuzzle.vcxproj -> C:\Users\mark\source\repos\AISixPuzzle\Debug\AISixPuzzle.exe
